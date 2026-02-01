@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Star Analysis
+# 🍽️ Star Restaurant Analysis
 
 ## 📌 Project Overview
 This capstone project focuses on identifying **star restaurants** for a restaurant aggregator platform using data-driven analysis.  
